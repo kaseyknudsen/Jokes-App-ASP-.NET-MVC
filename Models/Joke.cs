@@ -6,5 +6,11 @@
         public string JokeQuestion { get; set; }
         public string JokeAnswer { get; set; }
 
+        //this is a constructor
+        public Joke()
+        {
+                
+        }
+
     }
 }
